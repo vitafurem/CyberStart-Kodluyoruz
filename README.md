@@ -1,2 +1,2 @@
 # CyberStart-Kodluyoruz
-eğitim programında öğrendiğim içerikleri ve çalışmları paylaştığım depodur.
+Patika platformunun vermiş olduğu CyberStart-Kodluyoruz eğitim programında öğrendiğim içerikleri ve çalışmaları paylaştığım depodur.
